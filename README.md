@@ -6,7 +6,7 @@ Cấu trúc repo:
 
 ---Tên diễn đàn(dreamhack, reversing.kr,...)
 
------Category(web, reverse, pwn, box, redteam)
+-----Category(web, reverse, pwn, box, redteam, nếu diễn đàn chuyên về 1 mảng thì sẽ skip)
 
 -------Tên challenge, box
 
